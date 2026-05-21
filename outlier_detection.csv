@@ -1,0 +1,19 @@
+Feature,Q1,Q3,Lower Bound,Upper Bound,N Outliers,Countries
+HIV/AIDS,0.1,0.94,-1.16,2.21,27,"Angola, Botswana, Burundi, Cameroon..."
+CO2,2142.67,57199.33,-80442.33,139784.33,24,"Argentina, Australia, Brazil, Canada..."
+NonCommunicable,410136.99,3938151.88,-4881885.34,9230174.21,23,"Bangladesh, Brazil, China, Ethiopia..."
+GDP,844.1,7642.98,-9354.2,17841.28,22,"Australia, Austria, Belgium, Canada..."
+Communicable,71599.42,3361191.39,-4862788.54,8295579.35,21,"Angola, Bangladesh, Brazil, Burkina Faso..."
+Undernourishment,3.23,13.7,-12.48,29.4,11,"Afghanistan, Angola, Central African Republic, Chad..."
+Sanitation,37.87,61.98,1.7,98.15,5,"Austria, Kuwait, Monaco, Singapore..."
+Education Expenditure %,3.2,5.4,-0.1,8.7,5,"Botswana, Cuba, Kiribati, Lesotho..."
+Polio,73.5,95.87,39.95,129.42,4,"Chad, Equatorial Guinea, Somalia, Tuvalu"
+Diphtheria,72.93,95.73,38.73,129.93,4,"Chad, Equatorial Guinea, Somalia, Tuvalu"
+Health Expenditure %,4.18,8.22,-1.88,14.27,3,"Marshall Islands, Tuvalu, United States"
+Schooling,10.06,14.19,3.88,20.37,3,"Marshall Islands, South Sudan, Tuvalu"
+Total expenditure,4.66,7.2,0.85,11.01,3,"Marshall Islands, Tuvalu, United States"
+Adult Mortality,75.83,216.13,-134.62,426.58,3,"Botswana, Lesotho, Zimbabwe"
+Hepatitis B,67.68,93.7,28.66,132.72,3,"Equatorial Guinea, Marshall Islands, Tuvalu"
+Life expectancy,62.95,75.55,44.04,94.46,0,
+Alcohol,1.0,7.55,-8.84,17.39,0,
+BMI,21.62,52.29,-24.38,98.29,0,

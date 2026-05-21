@@ -1,0 +1,29 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        Life expectancy   R-squared:                       0.800
+Model:                            OLS   Adj. R-squared:                  0.794
+Method:                 Least Squares   F-statistic:                     125.6
+Date:                Sat, 16 May 2026   Prob (F-statistic):           5.10e-53
+Time:                        16:07:24   Log-Likelihood:                -462.21
+No. Observations:                 163   AIC:                             936.4
+Df Residuals:                     157   BIC:                             955.0
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      66.1459      1.488     44.457      0.000      63.207      69.085
+Total expenditure           0.4231      0.162      2.612      0.010       0.103       0.743
+HIV/AIDS                   -7.2308      0.492    -14.690      0.000      -8.203      -6.258
+Sanitation                  0.1021      0.016      6.497      0.000       0.071       0.133
+Undernourishment           -0.2140      0.039     -5.525      0.000      -0.291      -0.138
+Education Expenditure %     0.3715      0.184      2.020      0.045       0.008       0.735
+==============================================================================
+Omnibus:                        8.981   Durbin-Watson:                   2.029
+Prob(Omnibus):                  0.011   Jarque-Bera (JB):                9.469
+Skew:                          -0.570   Prob(JB):                      0.00879
+Kurtosis:                       2.689   Cond. No.                         257.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

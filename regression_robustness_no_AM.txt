@@ -1,0 +1,32 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:        Life expectancy   R-squared:                       0.883
+Model:                            OLS   Adj. R-squared:                  0.877
+Method:                 Least Squares   F-statistic:                     145.7
+Date:                Sat, 16 May 2026   Prob (F-statistic):           8.15e-68
+Time:                        16:07:31   Log-Likelihood:                -418.31
+No. Observations:                 163   AIC:                             854.6
+Df Residuals:                     154   BIC:                             882.5
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+===========================================================================================
+                              coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------------------
+const                      48.8832      2.119     23.070      0.000      44.697      53.069
+GDP                         1.7605      0.315      5.586      0.000       1.138       2.383
+Schooling                   0.4778      0.110      4.343      0.000       0.260       0.695
+Total expenditure           0.4214      0.132      3.199      0.002       0.161       0.682
+HIV/AIDS                   -5.8923      0.425    -13.869      0.000      -6.732      -5.053
+Sanitation                  0.0218      0.014      1.508      0.133      -0.007       0.050
+Undernourishment           -0.1034      0.032     -3.212      0.002      -0.167      -0.040
+Education Expenditure %     0.0501      0.149      0.337      0.737      -0.244       0.344
+BMI                         0.0305      0.023      1.330      0.185      -0.015       0.076
+==============================================================================
+Omnibus:                       18.947   Durbin-Watson:                   2.179
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               24.081
+Skew:                          -0.725   Prob(JB):                     5.90e-06
+Kurtosis:                       4.202   Cond. No.                         599.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
